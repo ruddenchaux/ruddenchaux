@@ -41,5 +41,5 @@ YAML         1 hr 31 mins    █▓░░░░░░░░░░░░░░░
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruddenchaux&show_icons=true&layout=compact&hide_border=true&langs_count=5&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ruddenchaux&layout=compact&range=last_year&theme=dracula"/>
   
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+  [![ruddenchaux's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ruddenchaux)](https://github.com/anuraghazra/github-readme-stats)
 </p>
