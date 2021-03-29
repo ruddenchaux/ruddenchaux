@@ -38,5 +38,6 @@ YAML         1 hr 31 mins    █▓░░░░░░░░░░░░░░░
 📈 **My GitHub Stats:**
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruddenchaux&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruddenchaux&show_icons=true&hide_border=true&langs_count=5&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruddenchaux&show_icons=true&layout=compact&hide_border=true&langs_count=5&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ruddenchaux&layout=compact&range=last_year&theme=dracula"/>
 </p>
