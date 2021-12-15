@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=ruddenchaux.ruddenchaux)
 I'm a front end software engineer. 
 
-- 🔭 I’m currently working on microfrontend architecture with single-spa, Angular and React
+- 🔭 I’m currently working on fullstack environment with Angular and Yii frameworks
 - 🌱 I’m currently learning English
 
 📊 **This Week I Spent My Time On:**
