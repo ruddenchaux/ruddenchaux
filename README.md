@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=ruddenchaux.ruddenchaux)
 I'm a front end software engineer. 
 
-- 🔭 I’m currently working on fullstack environment with Angular and Yii frameworks
-- 🌱 I’m currently learning English
+- I’m currently working on fullstack environment with Angular and Yii frameworks on AWS
+- I’m currently learning English
+- I’m currently learning Google Cloud and AWS
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
