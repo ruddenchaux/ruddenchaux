@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/federico-dainelli-ab35b996/)
 
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=ruddenchaux.ruddenchaux)
-I'm a front end software engineer with a solid back end foundation.
+I'm a full stack software engineer.
 
-- I’m currently working on fullstack environment with Angular and Yii frameworks on AWS
+- I’m currently working on fullstack environment with Javascript, Typescript, PHP, SQL and Bash on AWS
 - I’m currently learning English
 - I’m currently learning Google Cloud and AWS
 
